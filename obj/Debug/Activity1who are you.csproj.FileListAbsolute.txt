@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity1who are you\obj\Debug\Activity1who are you.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity1who are you\obj\Debug\Activity1who are you.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity1who are you\bin\Debug\Activity1who are you.exe.config
+C:\Users\HP\source\repos\Activity1who are you\bin\Debug\Activity1who are you.exe
+C:\Users\HP\source\repos\Activity1who are you\bin\Debug\Activity1who are you.pdb
+C:\Users\HP\source\repos\Activity1who are you\obj\Debug\Activity1who are you.exe
+C:\Users\HP\source\repos\Activity1who are you\obj\Debug\Activity1who are you.pdb
